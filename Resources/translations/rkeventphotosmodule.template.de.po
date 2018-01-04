@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: eventphotosmodule\n"
 "Last-Translator: rallek <ralf@familie-koester.de>\n"
 "Language-Team: German\n"
-"PO-Revision-Date: 2018-01-04 15:13-0500\n"
+"PO-Revision-Date: 2018-01-04 15:20-0500\n"
 
 msgid "%albumDate%, %albumTitle%"
-msgstr ""
+msgstr "%albumDate%, %albumTitle%"
 
