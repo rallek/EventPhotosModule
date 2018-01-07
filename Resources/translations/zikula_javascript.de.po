@@ -1,49 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: Ralf Köster <ralf@familie-koester.de>\n"
-"Language-Team: \n"
-"Language: de_DE\n"
-"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.5\n"
+"Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: eventphotosmodule\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /ZK1.5.x/Resources/translations/zikula_javascript.template.po\n"
+"Project-Id-Version: eventphotosmodule\n"
+"Last-Translator: rallek <ralf@familie-koester.de>\n"
+"Language-Team: German\n"
+"PO-Revision-Date: 2018-01-07 06:05-0500\n"
 
 msgid "Action has been completed."
 msgstr "Inhalt wurde geprüft und ist online verfügbar."
 
-msgid "Create"
-msgstr "Erstellen"
-
-msgid "Create new entry"
-msgstr "Neuen Eintrag erstellen"
-
-msgid "Do you really want to delete this entry?"
-msgstr "Wollen Sie diesen Eintrag wirklich löschen?"
-
-msgid "Edit this entry"
-msgstr "Eintrag editieren"
-
-msgid "Information"
-msgstr "Information"
-
-msgid "Next (Right arrow key)"
-msgstr "Nächste (Pfeiltaste rechts)"
-
-msgid "No results found!"
-msgstr "Keine Ergebnisse gefunden!"
-
-msgid "Please select a valid file extension."
-msgstr "Bitte wähle einen erlaubten Dateityp´."
-
-msgid "Previous (Left arrow key)"
-msgstr "Zurück (Pfeiltaste links)"
-
-msgid "of"
-msgstr "von"
-
-#~ msgid "This value must not contain spaces."
-#~ msgstr "Dieser Wert darf keine Leerzeichen enthalten."
