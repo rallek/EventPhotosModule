@@ -11,52 +11,52 @@ msgstr ""
 "Project-Id-Version: eventphotosmodule\n"
 "Last-Translator: rallek <ralf@familie-koester.de>\n"
 "Language-Team: German\n"
-"PO-Revision-Date: 2018-02-07 14:09-0500\n"
+"PO-Revision-Date: 2018-02-07 14:30-0500\n"
 
 msgid "%albumDate%, %albumTitle%"
-msgstr ""
+msgstr "%albumDate%, %albumTitle%"
 
 msgid "%imageTitle%"
-msgstr ""
+msgstr "%imageTitle%"
 
 msgid "10"
-msgstr ""
+msgstr "10"
 
 msgid "100"
-msgstr ""
+msgstr "100"
 
 msgid "12"
-msgstr ""
+msgstr "12"
 
 msgid "15"
-msgstr ""
+msgstr "15"
 
 msgid "16"
-msgstr ""
+msgstr "16"
 
 msgid "20"
-msgstr ""
+msgstr "20"
 
 msgid "30"
-msgstr ""
+msgstr "30"
 
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgid "40"
-msgstr ""
+msgstr "40"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "50"
-msgstr ""
+msgstr "50"
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "80"
-msgstr ""
+msgstr "80"
 
 msgid "Absolute url to the album"
 msgstr "Absolute Url zum Album"
@@ -167,10 +167,10 @@ msgid "Back to paginated view"
 msgstr "Zurück zur Seitenansicht"
 
 msgid "Backend"
-msgstr ""
+msgstr "Backend"
 
 msgid "Bytes"
-msgstr ""
+msgstr "Bytes"
 
 msgid "Cancel"
 msgstr "Abbrechen"
@@ -308,7 +308,7 @@ msgid "Detach this %name%"
 msgstr "Dies %name% entfernen"
 
 msgid "Details"
-msgstr ""
+msgstr "Details"
 
 msgid "Display list of RKEventPhotosModule objects."
 msgstr "Zeigt die Liste von RKEventPhotosModule -Objekten."
@@ -356,7 +356,7 @@ msgid "Done! Module configuration updated."
 msgstr "Erledigt! Modul Konfiguration aktualisiert."
 
 msgid "Download"
-msgstr ""
+msgstr "Download"
 
 msgid "EXIF raw data"
 msgstr "EXIF Rohdaten"
@@ -503,7 +503,7 @@ msgid "Example"
 msgstr "Beispiel"
 
 msgid "Filter"
-msgstr ""
+msgstr "Filter"
 
 msgid "Filter (expert option)"
 msgstr "Filter ( Expertenoption )"
@@ -512,13 +512,13 @@ msgid "Find %name%"
 msgstr "Finde %name%"
 
 msgid "Frontend"
-msgstr ""
+msgstr "Frontend"
 
 msgid "Further properties"
 msgstr "Weitere Eigenschaften"
 
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 msgid "Here you can choose a custom creation date"
 msgstr "Hier kann ein benutzerdefiniertes Erstellungsdatum gewählt werden"
@@ -578,7 +578,7 @@ msgid "Inset"
 msgstr "Einfügen (inset)"
 
 msgid "Integration"
-msgstr ""
+msgstr "Integration"
 
 msgid "Invalid object type received."
 msgstr "Fehler! Ungültigen Objekttyp erhalten."
@@ -587,7 +587,7 @@ msgid "Invalid user identifier received."
 msgstr "Fehler! Ungültiger Benutzer Bezeichner aufgerufen."
 
 msgid "KB"
-msgstr ""
+msgstr "KB"
 
 msgid "Last update"
 msgstr "Letzte Aktualisierung"
@@ -602,13 +602,13 @@ msgid "List views"
 msgstr "Listenansichten"
 
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 msgid "Manage settings for this application"
 msgstr "Einstellungen für diese Anwendung"
 
 msgid "Moderation"
-msgstr ""
+msgstr "Moderation"
 
 msgid "My album items"
 msgstr "Meine Bilder"
