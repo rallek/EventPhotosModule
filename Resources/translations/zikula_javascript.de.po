@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: eventphotosmodule\n"
 "Last-Translator: rallek <ralf@familie-koester.de>\n"
 "Language-Team: German\n"
-"PO-Revision-Date: 2018-02-07 14:09-0500\n"
+"PO-Revision-Date: 2018-02-07 14:30-0500\n"
 
 msgid "Action has been completed."
 msgstr "Inhalt wurde geprüft und ist online verfügbar."
@@ -29,7 +29,7 @@ msgid "Edit this entry"
 msgstr "Eintrag editieren"
 
 msgid "Information"
-msgstr ""
+msgstr "Information"
 
 msgid "Next (Right arrow key)"
 msgstr "Nächste (Pfeiltaste rechts)"
