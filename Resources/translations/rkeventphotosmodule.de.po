@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: eventphotosmodule\n"
 "Last-Translator: rallek <ralf@familie-koester.de>\n"
 "Language-Team: German\n"
-"PO-Revision-Date: 2018-02-07 14:30-0500\n"
+"PO-Revision-Date: 2018-02-07 14:50-0500\n"
 
 msgid "%albumDate%, %albumTitle%"
 msgstr "%albumDate%, %albumTitle%"
@@ -71,7 +71,7 @@ msgid "Album"
 msgstr "Seiten Alben"
 
 msgid "Album date"
-msgstr "Album-Datum"
+msgstr "Album Datum"
 
 msgid "Album description"
 msgstr "Album Beschreibung:"
@@ -80,7 +80,7 @@ msgid "Album entries per page"
 msgstr "Anzahl Album Einträge pro Seite"
 
 msgid "Album filter hooks subscriber"
-msgstr "Album-Filter-Hook-Abonnenten"
+msgstr "Album Filter Hook Abonnenten"
 
 msgid "Album form aware subscriber"
 msgstr "Album Form Aware Abonnenten"
