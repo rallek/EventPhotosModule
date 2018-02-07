@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: eventphotosmodule\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: /ZK1.5.x/Resources/translations/zikula_javascript.template.po\n"
+"Project-Id-Version: eventphotosmodule\n"
+"Last-Translator: rallek <ralf@familie-koester.de>\n"
+"Language-Team: Dutch\n"
+"PO-Revision-Date: 2018-02-07 14:09-0500\n"
+
+msgid "Action has been completed."
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Create new entry"
+msgstr ""
+
+msgid "Do you really want to delete this entry?"
+msgstr ""
+
+msgid "Edit this entry"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Next (Right arrow key)"
+msgstr ""
+
+msgid "No results found!"
+msgstr ""
+
+msgid "Please select a valid file extension."
+msgstr ""
+
+msgid "Previous (Left arrow key)"
+msgstr ""
+
+msgid "of"
+msgstr ""
+
