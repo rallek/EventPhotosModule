@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ach\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: eventphotosmodule\n"
+"X-Crowdin-Language: ach\n"
+"X-Crowdin-File: /master/Resources/translations/zikula_javascript.template.po\n"
+"Project-Id-Version: eventphotosmodule\n"
+"Last-Translator: rallek <ralf@familie-koester.de>\n"
+"Language-Team: Acholi\n"
+"PO-Revision-Date: 2018-02-09 12:23-0500\n"
+
+msgid "Action has been completed."
+msgstr "crwdns343:0crwdne343:0"
+
+msgid "Create"
+msgstr "crwdns344:0crwdne344:0"
+
+msgid "Create new entry"
+msgstr "crwdns345:0crwdne345:0"
+
+msgid "Do you really want to delete this entry?"
+msgstr "crwdns346:0crwdne346:0"
+
+msgid "Edit this entry"
+msgstr "crwdns347:0crwdne347:0"
+
+msgid "Information"
+msgstr "crwdns348:0crwdne348:0"
+
+msgid "Next (Right arrow key)"
+msgstr "crwdns349:0crwdne349:0"
+
+msgid "No results found!"
+msgstr "crwdns350:0crwdne350:0"
+
+msgid "Please select a valid file extension."
+msgstr "crwdns351:0crwdne351:0"
+
+msgid "Previous (Left arrow key)"
+msgstr "crwdns352:0crwdne352:0"
+
+msgid "of"
+msgstr "crwdns353:0crwdne353:0"
+
