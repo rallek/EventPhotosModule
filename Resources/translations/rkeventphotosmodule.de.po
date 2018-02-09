@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: eventphotosmodule\n"
 "Last-Translator: rallek <ralf@familie-koester.de>\n"
 "Language-Team: German\n"
-"PO-Revision-Date: 2018-02-09 15:51-0500\n"
+"PO-Revision-Date: 2018-02-09 16:11-0500\n"
 
 msgid "%albumDate%, %albumTitle%"
 msgstr "%albumDate%, %albumTitle%"
@@ -683,7 +683,7 @@ msgid "Paste as"
 msgstr "Einfügen als"
 
 msgid "Please add your photos only to your own album."
-msgstr "Bitte fügen Sie Ihre Fotos nur Ihren eigenes Alben zu."
+msgstr "Bitte fügen Sie Ihre Fotos nur Ihren eigenes Alben hinzu."
 
 msgid "Please choose an option"
 msgstr "Bitte wählen"
