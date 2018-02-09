@@ -2,47 +2,47 @@ msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
+"Language: de_CH\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: eventphotosmodule\n"
-"X-Crowdin-Language: de\n"
+"X-Crowdin-Language: de-CH\n"
 "X-Crowdin-File: /master/Resources/translations/zikula_javascript.template.po\n"
 "Project-Id-Version: eventphotosmodule\n"
 "Last-Translator: rallek <ralf@familie-koester.de>\n"
-"Language-Team: German\n"
-"PO-Revision-Date: 2018-02-07 14:30-0500\n"
+"Language-Team: German, Switzerland\n"
+"PO-Revision-Date: 2018-02-09 12:32-0500\n"
 
 msgid "Action has been completed."
-msgstr "Inhalt wurde geprüft und ist online verfügbar."
+msgstr "crwdns343:0crwdne343:0"
 
 msgid "Create"
-msgstr "Erstellen"
+msgstr "crwdns344:0crwdne344:0"
 
 msgid "Create new entry"
-msgstr "Neuen Eintrag erstellen"
+msgstr "crwdns345:0crwdne345:0"
 
 msgid "Do you really want to delete this entry?"
-msgstr "Wollen Sie diesen Eintrag wirklich löschen?"
+msgstr "crwdns346:0crwdne346:0"
 
 msgid "Edit this entry"
-msgstr "Eintrag editieren"
+msgstr "crwdns347:0crwdne347:0"
 
 msgid "Information"
-msgstr "Information"
+msgstr "crwdns348:0crwdne348:0"
 
 msgid "Next (Right arrow key)"
-msgstr "Nächste (Pfeiltaste rechts)"
+msgstr "crwdns349:0crwdne349:0"
 
 msgid "No results found!"
-msgstr "Keine Ergebnisse gefunden!"
+msgstr "crwdns350:0crwdne350:0"
 
 msgid "Please select a valid file extension."
-msgstr "Bitte wähle einen erlaubten Dateityp´."
+msgstr "crwdns351:0crwdne351:0"
 
 msgid "Previous (Left arrow key)"
-msgstr "Zurück (Pfeiltaste links)"
+msgstr "crwdns352:0crwdne352:0"
 
 msgid "of"
-msgstr "von"
+msgstr "crwdns353:0crwdne353:0"
 
