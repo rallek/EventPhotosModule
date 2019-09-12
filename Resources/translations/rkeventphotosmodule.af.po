@@ -1,0 +1,1026 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: af\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: eventphotosmodule\n"
+"X-Crowdin-Language: af\n"
+"X-Crowdin-File: /master/Resources/translations/rkeventphotosmodule.template.po\n"
+"Project-Id-Version: eventphotosmodule\n"
+"Last-Translator: rallek <ralf@familie-koester.de>\n"
+"Language-Team: Afrikaans\n"
+"PO-Revision-Date: 2018-02-09 13:02-0500\n"
+
+msgid "%albumDate%, %albumTitle%"
+msgstr "crwdns6:0%albumDate%crwdnd6:0%albumTitle%crwdne6:0"
+
+msgid "%imageTitle%"
+msgstr "crwdns7:0%imageTitle%crwdne7:0"
+
+msgid "10"
+msgstr "crwdns8:0crwdne8:0"
+
+msgid "100"
+msgstr "crwdns9:0crwdne9:0"
+
+msgid "12"
+msgstr "crwdns10:0crwdne10:0"
+
+msgid "15"
+msgstr "crwdns11:0crwdne11:0"
+
+msgid "16"
+msgstr "crwdns12:0crwdne12:0"
+
+msgid "20"
+msgstr "crwdns13:0crwdne13:0"
+
+msgid "30"
+msgstr "crwdns14:0crwdne14:0"
+
+msgid "4"
+msgstr "crwdns15:0crwdne15:0"
+
+msgid "40"
+msgstr "crwdns16:0crwdne16:0"
+
+msgid "5"
+msgstr "crwdns17:0crwdne17:0"
+
+msgid "50"
+msgstr "crwdns18:0crwdne18:0"
+
+msgid "8"
+msgstr "crwdns19:0crwdne19:0"
+
+msgid "80"
+msgstr "crwdns20:0crwdne20:0"
+
+msgid "Absolute url to the album"
+msgstr "crwdns21:0crwdne21:0"
+
+msgid "Absolute url to the album item"
+msgstr "crwdns22:0crwdne22:0"
+
+msgid "Actions"
+msgstr "crwdns23:0crwdne23:0"
+
+msgid "Album"
+msgstr "crwdns24:0crwdne24:0"
+
+msgid "Album date"
+msgstr "crwdns25:0crwdne25:0"
+
+msgid "Album description"
+msgstr "crwdns26:0crwdne26:0"
+
+msgid "Album entries per page"
+msgstr "crwdns27:0crwdne27:0"
+
+msgid "Album filter hooks subscriber"
+msgstr "crwdns28:0crwdne28:0"
+
+msgid "Album form aware subscriber"
+msgstr "crwdns29:0crwdne29:0"
+
+msgid "Album item"
+msgstr "crwdns30:0crwdne30:0"
+
+msgid "Album item entries per page"
+msgstr "crwdns31:0crwdne31:0"
+
+msgid "Album item filter hooks subscriber"
+msgstr "crwdns32:0crwdne32:0"
+
+msgid "Album item form aware subscriber"
+msgstr "crwdns33:0crwdne33:0"
+
+msgid "Album item ui hooks subscriber"
+msgstr "crwdns34:0crwdne34:0"
+
+msgid "Album items"
+msgstr "crwdns35:0crwdne35:0"
+
+msgid "Album items image"
+msgstr "crwdns36:0crwdne36:0"
+
+msgid "Album items list"
+msgstr "crwdns37:0crwdne37:0"
+
+msgid "Album title"
+msgstr "crwdns38:0crwdne38:0"
+
+msgid "Album ui hooks provider"
+msgstr "crwdns39:0crwdne39:0"
+
+msgid "Album ui hooks subscriber"
+msgstr "crwdns40:0crwdne40:0"
+
+msgid "Albums"
+msgstr "crwdns41:0crwdne41:0"
+
+msgid "Albums list"
+msgstr "crwdns42:0crwdne42:0"
+
+msgid "All"
+msgstr "crwdns43:0crwdne43:0"
+
+msgid "All except approved"
+msgstr "crwdns44:0crwdne44:0"
+
+msgid "All except deferred"
+msgstr "crwdns45:0crwdne45:0"
+
+msgid "All except trashed"
+msgstr "crwdns46:0crwdne46:0"
+
+msgid "Allowed file extensions"
+msgstr "crwdns47:0crwdne47:0"
+
+msgid "Allowed file size"
+msgstr "crwdns48:0crwdne48:0"
+
+msgid "Amount"
+msgstr "crwdns49:0crwdne49:0"
+
+msgid "An error occured during creation of the .htaccess file in directory \"%path%\"."
+msgstr "crwdns50:0%path%crwdne50:0"
+
+msgid "Approved"
+msgstr "crwdns51:0crwdne51:0"
+
+msgid "Ascending"
+msgstr "crwdns52:0crwdne52:0"
+
+msgid "Assigned albums"
+msgstr "crwdns53:0crwdne53:0"
+
+msgid "Attach %name%"
+msgstr "crwdns54:0%name%crwdne54:0"
+
+msgid "Back to overview"
+msgstr "crwdns55:0crwdne55:0"
+
+msgid "Back to paginated view"
+msgstr "crwdns56:0crwdne56:0"
+
+msgid "Backend"
+msgstr "crwdns57:0crwdne57:0"
+
+msgid "Bytes"
+msgstr "crwdns58:0crwdne58:0"
+
+msgid "Cancel"
+msgstr "crwdns59:0crwdne59:0"
+
+msgid "Categories"
+msgstr "crwdns60:0crwdne60:0"
+
+msgid "Category"
+msgstr "crwdns61:0crwdne61:0"
+
+msgid "Change selection"
+msgstr "crwdns62:0crwdne62:0"
+
+msgid "Choose a title for your album. The event name seem to be a good choice. Date and creator name will be automatically included."
+msgstr "crwdns63:0crwdne63:0"
+
+msgid "Choose action"
+msgstr "crwdns64:0crwdne64:0"
+
+msgid "Choose an option"
+msgstr "crwdns65:0crwdne65:0"
+
+msgid "Choose the album"
+msgstr "crwdns66:0crwdne66:0"
+
+msgid "Choose the enabled finder types."
+msgstr "crwdns67:0crwdne67:0"
+
+msgid "Choose the thumbnail mode."
+msgstr "crwdns68:0crwdne68:0"
+
+msgid "Configuration"
+msgstr "crwdns69:0crwdne69:0"
+
+msgid "Confirmation prompt"
+msgstr "crwdns70:0crwdne70:0"
+
+msgid "Content has been approved and is available online."
+msgstr "crwdns71:0crwdne71:0"
+
+msgid "Content has been marked as deleted, but is still persisted in the database."
+msgstr "crwdns72:0crwdne72:0"
+
+msgid "Content has not been submitted yet or has been waiting, but was rejected."
+msgstr "crwdns73:0crwdne73:0"
+
+msgid "Copyright"
+msgstr "crwdns74:0crwdne74:0"
+
+msgid "Create"
+msgstr "crwdns75:0crwdne75:0"
+
+msgid "Create album"
+msgstr "crwdns76:0crwdne76:0"
+
+msgid "Create album item"
+msgstr "crwdns77:0crwdne77:0"
+
+msgid "Create album items"
+msgstr "crwdns78:0crwdne78:0"
+
+msgid "Create new %name%"
+msgstr "crwdns79:0%name%crwdne79:0"
+
+msgid "Created by %user"
+msgstr "crwdns80:0%ucrwdne80:0"
+
+msgid "Created by %user on %date"
+msgstr "crwdns81:0%ucrwdnd81:0%dcrwdne81:0"
+
+msgid "Created on %date"
+msgstr "crwdns82:0%dcrwdne82:0"
+
+msgid "Creation"
+msgstr "crwdns83:0crwdne83:0"
+
+msgid "Creation and update"
+msgstr "crwdns84:0crwdne84:0"
+
+msgid "Creation date"
+msgstr "crwdns85:0crwdne85:0"
+
+msgid "Creator"
+msgstr "crwdns86:0crwdne86:0"
+
+msgid "Current file"
+msgstr "crwdns87:0crwdne87:0"
+
+msgid "Custom template"
+msgstr "crwdns88:0crwdne88:0"
+
+msgid "Default"
+msgstr "crwdns89:0crwdne89:0"
+
+msgid "Defer"
+msgstr "crwdns90:0crwdne90:0"
+
+msgid "Deferred"
+msgstr "crwdns91:0crwdne91:0"
+
+msgid "Delete"
+msgstr "crwdns92:0crwdne92:0"
+
+msgid "Delete album"
+msgstr "crwdns93:0crwdne93:0"
+
+msgid "Delete album item"
+msgstr "crwdns94:0crwdne94:0"
+
+msgid "Delete content permanently."
+msgstr "crwdns95:0crwdne95:0"
+
+msgid "Delete existing file"
+msgstr "crwdns96:0crwdne96:0"
+
+msgid "Delete this album"
+msgstr "crwdns97:0crwdne97:0"
+
+msgid "Delete this album item"
+msgstr "crwdns98:0crwdne98:0"
+
+msgid "Delete this file ?"
+msgstr "crwdns99:0crwdne99:0"
+
+msgid "Deleted"
+msgstr "crwdns100:0crwdne100:0"
+
+msgid "Descending"
+msgstr "crwdns101:0crwdne101:0"
+
+msgid "Detach %name%"
+msgstr "crwdns102:0%name%crwdne102:0"
+
+msgid "Detach this %name%"
+msgstr "crwdns103:0%name%crwdne103:0"
+
+msgid "Details"
+msgstr "crwdns104:0crwdne104:0"
+
+msgid "Display list of RKEventPhotosModule objects."
+msgstr "crwdns105:0crwdne105:0"
+
+msgid "Display or link a single RKEventPhotosModule object."
+msgstr "crwdns106:0crwdne106:0"
+
+msgid "Do you really want to delete this album item: \"%name%\" ?"
+msgstr "crwdns107:0%name%crwdne107:0"
+
+msgid "Do you really want to delete this album: \"%name%\" ?"
+msgstr "crwdns108:0%name%crwdne108:0"
+
+msgid "Doctrine Exception"
+msgstr "crwdns109:0crwdne109:0"
+
+msgid "Done! Album created."
+msgstr "crwdns110:0crwdne110:0"
+
+msgid "Done! Album deleted."
+msgstr "crwdns111:0crwdne111:0"
+
+msgid "Done! Album item created."
+msgstr "crwdns112:0crwdne112:0"
+
+msgid "Done! Album item deleted."
+msgstr "crwdns113:0crwdne113:0"
+
+msgid "Done! Album item updated."
+msgstr "crwdns114:0crwdne114:0"
+
+msgid "Done! Album updated."
+msgstr "crwdns115:0crwdne115:0"
+
+msgid "Done! Item created."
+msgstr "crwdns116:0crwdne116:0"
+
+msgid "Done! Item deleted."
+msgstr "crwdns117:0crwdne117:0"
+
+msgid "Done! Item updated."
+msgstr "crwdns118:0crwdne118:0"
+
+msgid "Done! Module configuration updated."
+msgstr "crwdns119:0crwdne119:0"
+
+msgid "Download"
+msgstr "crwdns120:0crwdne120:0"
+
+msgid "EXIF raw data"
+msgstr "crwdns121:0crwdne121:0"
+
+msgid "EXIF selection"
+msgstr "crwdns122:0crwdne122:0"
+
+msgid "Edit"
+msgstr "crwdns123:0crwdne123:0"
+
+msgid "Edit album"
+msgstr "crwdns124:0crwdne124:0"
+
+msgid "Edit album item"
+msgstr "crwdns125:0crwdne125:0"
+
+msgid "Edit album items workflow"
+msgstr "crwdns126:0crwdne126:0"
+
+msgid "Edit albums workflow"
+msgstr "crwdns127:0crwdne127:0"
+
+msgid "Edit this album"
+msgstr "crwdns128:0crwdne128:0"
+
+msgid "Edit this album item"
+msgstr "crwdns129:0crwdne129:0"
+
+msgid "Edit workflow for album items"
+msgstr "crwdns130:0crwdne130:0"
+
+msgid "Edit workflow for albums"
+msgstr "crwdns131:0crwdne131:0"
+
+msgid "Enable shrinking for album item image"
+msgstr "crwdns132:0crwdne132:0"
+
+msgid "Enable this option to insert images"
+msgstr "crwdns133:0crwdne133:0"
+
+msgid "Enabled finder types"
+msgstr "crwdns134:0crwdne134:0"
+
+msgid "Enter the album date of the album"
+msgstr "crwdns135:0crwdne135:0"
+
+msgid "Enter the album description of the album"
+msgstr "crwdns136:0crwdne136:0"
+
+msgid "Enter the album entries per page."
+msgstr "crwdns137:0crwdne137:0"
+
+msgid "Enter the album item entries per page."
+msgstr "crwdns138:0crwdne138:0"
+
+msgid "Enter the album title of the album"
+msgstr "crwdns139:0crwdne139:0"
+
+msgid "Enter the copyright of the album item"
+msgstr "crwdns140:0crwdne140:0"
+
+msgid "Enter the image description of the album item"
+msgstr "crwdns141:0crwdne141:0"
+
+msgid "Enter the image of the album item"
+msgstr "crwdns142:0crwdne142:0"
+
+msgid "Enter the image title of the album item"
+msgstr "crwdns143:0crwdne143:0"
+
+msgid "Enter the row height."
+msgstr "crwdns144:0crwdne144:0"
+
+msgid "Enter the shrink height"
+msgstr "crwdns145:0crwdne145:0"
+
+msgid "Enter the shrink width"
+msgstr "crwdns146:0crwdne146:0"
+
+msgid "Enter the thumbnail height display"
+msgstr "crwdns147:0crwdne147:0"
+
+msgid "Enter the thumbnail height edit"
+msgstr "crwdns148:0crwdne148:0"
+
+msgid "Enter the thumbnail height view"
+msgstr "crwdns149:0crwdne149:0"
+
+msgid "Enter the thumbnail width display"
+msgstr "crwdns150:0crwdne150:0"
+
+msgid "Enter the thumbnail width edit"
+msgstr "crwdns151:0crwdne151:0"
+
+msgid "Enter the thumbnail width view"
+msgstr "crwdns152:0crwdne152:0"
+
+msgid "Entry to display"
+msgstr "crwdns153:0crwdne153:0"
+
+msgid "Error! Could not create a category registry for the %entity% entity."
+msgstr "crwdns154:0%entity%crwdne154:0"
+
+msgid "Error! Could not determine workflow actions."
+msgstr "crwdns155:0crwdne155:0"
+
+msgid "Error! Creation attempt failed."
+msgstr "crwdns156:0crwdne156:0"
+
+msgid "Error! Deletion attempt failed."
+msgstr "crwdns157:0crwdne157:0"
+
+msgid "Error! Invalid object type received."
+msgstr "crwdns158:0crwdne158:0"
+
+msgid "Error! It is not allowed to delete this album item."
+msgstr "crwdns159:0crwdne159:0"
+
+msgid "Error! It is not allowed to delete this album."
+msgstr "crwdns160:0crwdne160:0"
+
+msgid "Error! This file type is not allowed. Please choose another file format."
+msgstr "crwdns161:0crwdne161:0"
+
+msgid "Error! This file type seems not to be a valid image."
+msgstr "crwdns162:0crwdne162:0"
+
+msgid "Error! Update attempt failed."
+msgstr "crwdns163:0crwdne163:0"
+
+msgid "Error: Invalid editor context given for external controller action."
+msgstr "crwdns164:0crwdne164:0"
+
+msgid "Error: invalid input."
+msgstr "crwdns165:0crwdne165:0"
+
+msgid "Errors"
+msgstr "crwdns166:0crwdne166:0"
+
+msgid "Event photos Backend"
+msgstr "crwdns167:0crwdne167:0"
+
+msgid "Example"
+msgstr "crwdns168:0crwdne168:0"
+
+msgid "Filter"
+msgstr "crwdns169:0crwdne169:0"
+
+msgid "Filter (expert option)"
+msgstr "crwdns170:0crwdne170:0"
+
+msgid "Find %name%"
+msgstr "crwdns171:0%name%crwdne171:0"
+
+msgid "Frontend"
+msgstr "crwdns172:0crwdne172:0"
+
+msgid "Further properties"
+msgstr "crwdns173:0crwdne173:0"
+
+msgid "GB"
+msgstr "crwdns174:0crwdne174:0"
+
+msgid "Here you can choose a custom creation date"
+msgstr "crwdns175:0crwdne175:0"
+
+msgid "Here you can choose a user which will be set as creator"
+msgstr "crwdns176:0crwdne176:0"
+
+msgid "Here you can configure parameters for list views."
+msgstr "crwdns177:0crwdne177:0"
+
+msgid "Here you can inspect and amend the existing workflows."
+msgstr "crwdns178:0crwdne178:0"
+
+msgid "Here you can manage all basic settings for this application."
+msgstr "crwdns179:0crwdne179:0"
+
+msgid "Hook assignments"
+msgstr "crwdns180:0crwdne180:0"
+
+msgid "ID of album"
+msgstr "crwdns181:0crwdne181:0"
+
+msgid "ID of album item"
+msgstr "crwdns182:0crwdne182:0"
+
+msgid "If blank the uploading user will get the copyright. If you want to overwrite please fill in this."
+msgstr "crwdns183:0crwdne183:0"
+
+msgid "If you change this please save the block once to reload the parameters below."
+msgstr "crwdns184:0crwdne184:0"
+
+msgid "Image"
+msgstr "crwdns185:0crwdne185:0"
+
+msgid "Image description"
+msgstr "crwdns186:0crwdne186:0"
+
+msgid "Image settings for album items image"
+msgstr "crwdns187:0crwdne187:0"
+
+msgid "Image title"
+msgstr "crwdns188:0crwdne188:0"
+
+msgid "Image with absolute url to the album item"
+msgstr "crwdns189:0crwdne189:0"
+
+msgid "Image with relative link to the album item"
+msgstr "crwdns190:0crwdne190:0"
+
+msgid "Images"
+msgstr "crwdns191:0crwdne191:0"
+
+msgid "Initial"
+msgstr "crwdns192:0crwdne192:0"
+
+msgid "Inset"
+msgstr "crwdns193:0crwdne193:0"
+
+msgid "Integration"
+msgstr "crwdns194:0crwdne194:0"
+
+msgid "Invalid object type received."
+msgstr "crwdns195:0crwdne195:0"
+
+msgid "Invalid user identifier received."
+msgstr "crwdns196:0crwdne196:0"
+
+msgid "KB"
+msgstr "crwdns197:0crwdne197:0"
+
+msgid "Last update"
+msgstr "crwdns198:0crwdne198:0"
+
+msgid "Link own album items on account page"
+msgstr "crwdns199:0crwdne199:0"
+
+msgid "Link own albums on account page"
+msgstr "crwdns200:0crwdne200:0"
+
+msgid "List views"
+msgstr "crwdns201:0crwdne201:0"
+
+msgid "MB"
+msgstr "crwdns202:0crwdne202:0"
+
+msgid "Manage settings for this application"
+msgstr "crwdns203:0crwdne203:0"
+
+msgid "Moderation"
+msgstr "crwdns204:0crwdne204:0"
+
+msgid "My album items"
+msgstr "crwdns205:0crwdne205:0"
+
+msgid "My albums"
+msgstr "crwdns206:0crwdne206:0"
+
+msgid "Needs to be located in the \"External/YourEntity/\" directory."
+msgstr "crwdns207:0crwdne207:0"
+
+msgid "Newest"
+msgstr "crwdns208:0crwdne208:0"
+
+msgid "No album items found."
+msgstr "crwdns209:0crwdne209:0"
+
+msgid "No albums found."
+msgstr "crwdns210:0crwdne210:0"
+
+msgid "No entries found."
+msgstr "crwdns211:0crwdne211:0"
+
+msgid "No item selected."
+msgstr "crwdns212:0crwdne212:0"
+
+msgid "No such item found."
+msgstr "crwdns213:0crwdne213:0"
+
+msgid "No such item."
+msgstr "crwdns214:0crwdne214:0"
+
+msgid "Not set."
+msgstr "crwdns215:0crwdne215:0"
+
+msgid "Note: this value must not exceed %amount% characters."
+msgstr "crwdns216:0%amount%crwdne216:0"
+
+msgid "OK"
+msgstr "crwdns217:0crwdne217:0"
+
+msgid "Object type"
+msgstr "crwdns218:0crwdne218:0"
+
+msgid "Only digits are allowed."
+msgstr "crwdns219:0crwdne219:0"
+
+msgid "Only images"
+msgstr "crwdns220:0crwdne220:0"
+
+msgid "Only item titles"
+msgstr "crwdns221:0crwdne221:0"
+
+msgid "Open file"
+msgstr "crwdns222:0crwdne222:0"
+
+msgid "Open preview page"
+msgstr "crwdns223:0crwdne223:0"
+
+msgid "Open quick view window"
+msgstr "crwdns224:0crwdne224:0"
+
+msgid "Operation cancelled."
+msgstr "crwdns225:0crwdne225:0"
+
+msgid "Outbound"
+msgstr "crwdns226:0crwdne226:0"
+
+msgid "Page size"
+msgstr "crwdns227:0crwdne227:0"
+
+msgid "Paste as"
+msgstr "crwdns228:0crwdne228:0"
+
+msgid "Please add your photos only to your own album."
+msgstr "crwdns229:0crwdne229:0"
+
+msgid "Please choose an option"
+msgstr "crwdns230:0crwdne230:0"
+
+msgid "Preview"
+msgstr "crwdns231:0crwdne231:0"
+
+msgid "Quick navigation"
+msgstr "crwdns232:0crwdne232:0"
+
+msgid "RKEventPhotosModule detail view"
+msgstr "crwdns233:0crwdne233:0"
+
+msgid "RKEventPhotosModule items"
+msgstr "crwdns234:0crwdne234:0"
+
+msgid "RKEventPhotosModule list view"
+msgstr "crwdns235:0crwdne235:0"
+
+msgid "Random"
+msgstr "crwdns236:0crwdne236:0"
+
+msgid "Read more"
+msgstr "crwdns237:0crwdne237:0"
+
+msgid "Recover"
+msgstr "crwdns238:0crwdne238:0"
+
+msgid "Reject"
+msgstr "crwdns239:0crwdne239:0"
+
+msgid "Relative link to the album"
+msgstr "crwdns240:0crwdne240:0"
+
+msgid "Relative link to the album item"
+msgstr "crwdns241:0crwdne241:0"
+
+msgid "Relative link to the image"
+msgstr "crwdns242:0crwdne242:0"
+
+msgid "Reset"
+msgstr "crwdns243:0crwdne243:0"
+
+msgid "Reset to empty value"
+msgstr "crwdns244:0crwdne244:0"
+
+msgid "Reuse"
+msgstr "crwdns245:0crwdne245:0"
+
+msgid "Reuse for new album"
+msgstr "crwdns246:0crwdne246:0"
+
+msgid "Reuse for new album item"
+msgstr "crwdns247:0crwdne247:0"
+
+msgid "Row height"
+msgstr "crwdns248:0crwdne248:0"
+
+msgid "Search"
+msgstr "crwdns249:0crwdne249:0"
+
+msgid "Search %name%"
+msgstr "crwdns250:0%name%crwdne250:0"
+
+msgid "Search and select album"
+msgstr "crwdns251:0crwdne251:0"
+
+msgid "Search and select album item"
+msgstr "crwdns252:0crwdne252:0"
+
+msgid "Search for"
+msgstr "crwdns253:0crwdne253:0"
+
+msgid "Send private message to %userName%"
+msgstr "crwdns254:0%userName%crwdne254:0"
+
+msgid "Settings"
+msgstr "crwdns255:0crwdne255:0"
+
+msgid "Show all entries"
+msgstr "crwdns256:0crwdne256:0"
+
+msgid "Show also entries from other users"
+msgstr "crwdns257:0crwdne257:0"
+
+msgid "Show only own entries"
+msgstr "crwdns258:0crwdne258:0"
+
+msgid "Shows all items except these which are approved"
+msgstr "crwdns259:0crwdne259:0"
+
+msgid "Shows all items except these which are deferred"
+msgstr "crwdns260:0crwdne260:0"
+
+msgid "Shows all items except these which are trashed"
+msgstr "crwdns261:0crwdne261:0"
+
+msgid "Shrink height album item image"
+msgstr "crwdns262:0crwdne262:0"
+
+msgid "Shrink width album item image"
+msgstr "crwdns263:0crwdne263:0"
+
+msgid "Sorry, but an error occured during the %action% action."
+msgstr "crwdns264:0%action%crwdne264:0"
+
+msgid "Sorry, but an error occured during the %action% action. Please apply the changes again!"
+msgstr "crwdns265:0%action%crwdne265:0"
+
+msgid "Sorry, but you can not create the album item yet as other items are required which must be created before!"
+msgstr "crwdns266:0crwdne266:0"
+
+msgid "Sorry, but you can not create the album yet as other items are required which must be created before!"
+msgstr "crwdns267:0crwdne267:0"
+
+msgid "Sort by"
+msgstr "crwdns268:0crwdne268:0"
+
+msgid "Sort by %s"
+msgstr "crwdns269:0%scrwdne269:0"
+
+msgid "Sort direction"
+msgstr "crwdns270:0crwdne270:0"
+
+msgid "Sorting"
+msgstr "crwdns271:0crwdne271:0"
+
+msgid "Special album settings"
+msgstr "crwdns272:0crwdne272:0"
+
+msgid "State"
+msgstr "crwdns273:0crwdne273:0"
+
+msgid "Submit"
+msgstr "crwdns274:0crwdne274:0"
+
+msgid "Submit and repeat"
+msgstr "crwdns275:0crwdne275:0"
+
+msgid "Switch to administration area."
+msgstr "crwdns276:0crwdne276:0"
+
+msgid "Switch to user area."
+msgstr "crwdns277:0crwdne277:0"
+
+msgid "Template"
+msgstr "crwdns278:0crwdne278:0"
+
+msgid "The amount of album items shown per page"
+msgstr "crwdns279:0crwdne279:0"
+
+msgid "The amount of albums shown per page"
+msgstr "crwdns280:0crwdne280:0"
+
+msgid "The cache directory \"%directory%\" does not exist. Please create it and make it writable for the webserver."
+msgstr "crwdns281:0%directory%crwdne281:0"
+
+msgid "The date will be included in the headline and will be used for sorting."
+msgstr "crwdns282:0crwdne282:0"
+
+msgid "The enable shrinking option"
+msgstr "crwdns283:0crwdne283:0"
+
+msgid "The link own album items on account page option"
+msgstr "crwdns284:0crwdne284:0"
+
+msgid "The link own albums on account page option"
+msgstr "crwdns285:0crwdne285:0"
+
+msgid "The maximum amount of items to be shown."
+msgstr "crwdns286:0crwdne286:0"
+
+msgid "The maximum height of a row in the image album."
+msgstr "crwdns287:0crwdne287:0"
+
+msgid "The maximum image height in pixels."
+msgstr "crwdns288:0crwdne288:0"
+
+msgid "The maximum image width in pixels."
+msgstr "crwdns289:0crwdne289:0"
+
+msgid "The upload directories at \"%path%\" can be removed manually."
+msgstr "crwdns290:0%path%crwdne290:0"
+
+msgid "The upload directory \"%path%\" does not exist and could not be created. Try to create it yourself and make sure that this folder is accessible via the web and writable by the webserver."
+msgstr "crwdns291:0%path%crwdne291:0"
+
+msgid "The value \"%value%\" is not allowed for the \"%property%\" property."
+msgstr "crwdns292:0%value%crwdnd292:0%property%crwdne292:0"
+
+msgid "There is no maximum for the image size. If images are to big a memory error might occur. The administrator can switch on automatic shrinking."
+msgstr "crwdns293:0crwdne293:0"
+
+msgid "These options allow you to configure integration aspects."
+msgstr "crwdns294:0crwdne294:0"
+
+msgid "This album is assigned to the following data objects:"
+msgstr "crwdns295:0crwdne295:0"
+
+msgid "This album is not assigned to any data objects yet."
+msgstr "crwdns296:0crwdne296:0"
+
+msgid "This description is used to give a short introduction about the event. It is not mandatory."
+msgstr "crwdns297:0crwdne297:0"
+
+msgid "This function requires JavaScript activated!"
+msgstr "crwdns298:0crwdne298:0"
+
+msgid "This is an optional filter."
+msgstr "crwdns299:0crwdne299:0"
+
+msgid "Thumbnail height album item image display"
+msgstr "crwdns300:0crwdne300:0"
+
+msgid "Thumbnail height album item image edit"
+msgstr "crwdns301:0crwdne301:0"
+
+msgid "Thumbnail height album item image view"
+msgstr "crwdns302:0crwdne302:0"
+
+msgid "Thumbnail height on display pages in pixels."
+msgstr "crwdns303:0crwdne303:0"
+
+msgid "Thumbnail height on edit pages in pixels."
+msgstr "crwdns304:0crwdne304:0"
+
+msgid "Thumbnail height on view pages in pixels."
+msgstr "crwdns305:0crwdne305:0"
+
+msgid "Thumbnail mode (inset or outbound)."
+msgstr "crwdns306:0crwdne306:0"
+
+msgid "Thumbnail mode album item image"
+msgstr "crwdns307:0crwdne307:0"
+
+msgid "Thumbnail width album item image display"
+msgstr "crwdns308:0crwdne308:0"
+
+msgid "Thumbnail width album item image edit"
+msgstr "crwdns309:0crwdne309:0"
+
+msgid "Thumbnail width album item image view"
+msgstr "crwdns310:0crwdne310:0"
+
+msgid "Thumbnail width on display pages in pixels."
+msgstr "crwdns311:0crwdne311:0"
+
+msgid "Thumbnail width on edit pages in pixels."
+msgstr "crwdns312:0crwdne312:0"
+
+msgid "Thumbnail width on view pages in pixels."
+msgstr "crwdns313:0crwdne313:0"
+
+msgid "Trash"
+msgstr "crwdns314:0crwdne314:0"
+
+msgid "Trashed"
+msgstr "crwdns315:0crwdne315:0"
+
+msgid "Update"
+msgstr "crwdns316:0crwdne316:0"
+
+msgid "Update configuration"
+msgstr "crwdns317:0crwdne317:0"
+
+msgid "Update date"
+msgstr "crwdns318:0crwdne318:0"
+
+msgid "Updated by %user"
+msgstr "crwdns319:0%ucrwdne319:0"
+
+msgid "Updated by %user on %date"
+msgstr "crwdns320:0%ucrwdnd320:0%dcrwdne320:0"
+
+msgid "Updated on %date"
+msgstr "crwdns321:0%dcrwdne321:0"
+
+msgid "Updater"
+msgstr "crwdns322:0crwdne322:0"
+
+msgid "View this object"
+msgstr "crwdns323:0crwdne323:0"
+
+msgid "Warning! The upload directory at \"%path%\" exists but is not writable by the webserver."
+msgstr "crwdns324:0%path%crwdne324:0"
+
+msgid "Welcome to the album item section of the Event photos application."
+msgstr "crwdns325:0crwdne325:0"
+
+msgid "Welcome to the album section of the Event photos application."
+msgstr "crwdns326:0crwdne326:0"
+
+msgid "Whether to add a link to album items of the current user on his account page"
+msgstr "crwdns327:0crwdne327:0"
+
+msgid "Whether to add a link to albums of the current user on his account page"
+msgstr "crwdns328:0crwdne328:0"
+
+msgid "Whether to enable shrinking huge images to maximum dimensions. Stores downscaled version of the original image."
+msgstr "crwdns329:0crwdne329:0"
+
+msgid "Which sections are supported in the Finder component (used by Scribite plug-ins)."
+msgstr "crwdns330:0crwdne330:0"
+
+msgid "With description"
+msgstr "crwdns331:0crwdne331:0"
+
+msgid "With selected album items"
+msgstr "crwdns332:0crwdne332:0"
+
+msgid "With selected albums"
+msgstr "crwdns333:0crwdne333:0"
+
+msgid "Workflows"
+msgstr "crwdns334:0crwdne334:0"
+
+msgid "You may want to tell a bit about the shooting. The exif parameters are visible in detail view of the image."
+msgstr "crwdns335:0crwdne335:0"
+
+msgid "album"
+msgstr "crwdns336:0crwdne336:0"
+
+msgid "album items"
+msgstr "crwdns337:0crwdne337:0"
+
+msgid "albums"
+msgstr "crwdns338:0crwdne338:0"
+
+msgid "more image details"
+msgstr "crwdns339:0crwdne339:0"
+
+msgid "on"
+msgstr "crwdns340:0crwdne340:0"
+
+msgid "pixels"
+msgstr "crwdns341:0crwdne341:0"
+
+msgid "sometimes it is nice to give the image a title"
+msgstr "crwdns342:0crwdne342:0"
+
