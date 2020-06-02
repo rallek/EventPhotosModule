@@ -1,1153 +1,1026 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: Ralf Köster <ralf@familie-koester.de>\n"
-"Language-Team: \n"
-"Language: de_DE\n"
-"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.5\n"
+"Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: eventphotosmodule\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /master/Resources/translations/rkeventphotosmodule.template.po\n"
+"Project-Id-Version: eventphotosmodule\n"
+"Last-Translator: rallek <ralf@familie-koester.de>\n"
+"Language-Team: German\n"
+"PO-Revision-Date: 2018-02-06 06:02-0500\n"
 
 msgid "%albumDate%, %albumTitle%"
 msgstr "%albumDate%, %albumTitle%"
 
 msgid "%imageTitle%"
-msgstr "%imageTitle%"
+msgstr ""
 
 msgid "10"
-msgstr "10"
+msgstr ""
 
 msgid "100"
-msgstr "100"
+msgstr ""
 
 msgid "12"
-msgstr "12"
+msgstr ""
 
 msgid "15"
-msgstr "15"
+msgstr ""
 
 msgid "16"
-msgstr "16"
+msgstr ""
 
 msgid "20"
-msgstr "20"
+msgstr ""
 
 msgid "30"
-msgstr "30"
+msgstr ""
 
 msgid "4"
-msgstr "4"
+msgstr ""
 
 msgid "40"
-msgstr "40"
+msgstr ""
 
 msgid "5"
-msgstr "5"
+msgstr ""
 
 msgid "50"
-msgstr "50"
+msgstr ""
 
 msgid "8"
-msgstr "8"
+msgstr ""
 
 msgid "80"
-msgstr "80"
+msgstr ""
 
 msgid "Absolute url to the album"
-msgstr "Absolute Url zum Album"
+msgstr ""
 
 msgid "Absolute url to the album item"
-msgstr "Absolute Url zum Bild"
+msgstr ""
 
 msgid "Actions"
-msgstr "Aktionen"
+msgstr ""
 
 msgid "Album"
-msgstr "Seiten Alben"
+msgstr ""
 
 msgid "Album date"
-msgstr "Album-Datum"
+msgstr ""
 
 msgid "Album description"
-msgstr "Album Beschreibung:"
+msgstr ""
 
 msgid "Album entries per page"
-msgstr "Anzahl Album Einträge pro Seite"
+msgstr ""
 
 msgid "Album filter hooks subscriber"
-msgstr "Album-Filter-Hook-Abonnenten"
+msgstr ""
 
 msgid "Album form aware subscriber"
-msgstr "Album Form Aware Abonnenten"
+msgstr ""
 
 msgid "Album item"
-msgstr "Bild"
+msgstr ""
 
 msgid "Album item entries per page"
-msgstr "Anzahl Bilder pro Seite"
+msgstr ""
 
 msgid "Album item filter hooks subscriber"
-msgstr "Bild Filter Hooks Abonnenten"
+msgstr ""
 
 msgid "Album item form aware subscriber"
-msgstr "Bild Form Aware Abonnenten"
+msgstr ""
 
 msgid "Album item ui hooks subscriber"
-msgstr "Bild Ui Hook Abonnenten"
+msgstr ""
 
 msgid "Album items"
-msgstr "Bilder"
+msgstr ""
 
 msgid "Album items image"
-msgstr "Element Albumbild"
+msgstr ""
 
 msgid "Album items list"
-msgstr "Bilderliste"
+msgstr ""
 
 msgid "Album title"
-msgstr "Albumtitel"
+msgstr ""
 
 msgid "Album ui hooks provider"
-msgstr "Album-Ui-Hook-Anbieter"
+msgstr ""
 
 msgid "Album ui hooks subscriber"
-msgstr "Album-Ui-Hook-Abonnenten"
+msgstr ""
 
 msgid "Albums"
-msgstr "Alben"
+msgstr ""
 
 msgid "Albums list"
-msgstr "Albenliste"
+msgstr ""
 
 msgid "All"
-msgstr "Alle"
+msgstr ""
 
 msgid "All except approved"
-msgstr "Alle außer freigegebene"
+msgstr ""
 
 msgid "All except deferred"
-msgstr "Alle außer zurückgestellte"
+msgstr ""
 
 msgid "All except trashed"
-msgstr "Alle außer im Papierkorb"
+msgstr ""
 
 msgid "Allowed file extensions"
-msgstr "Erlaubte Dateiendungen"
+msgstr ""
 
 msgid "Allowed file size"
-msgstr "Erlaubte Dateigröße"
+msgstr ""
 
 msgid "Amount"
-msgstr "Anzahl"
-
-msgid ""
-"An error occured during creation of the .htaccess file in directory \"%path%"
-"\"."
 msgstr ""
-"Während der Erstellung der .htaccess-Datei im Verzeichnis \"%path%\" ist ein "
-"Fehler aufgetreten."
+
+msgid "An error occured during creation of the .htaccess file in directory \"%path%\"."
+msgstr ""
 
 msgid "Approved"
-msgstr "Genehmigt"
+msgstr ""
 
 msgid "Ascending"
-msgstr "aufwärts"
+msgstr ""
 
 msgid "Assigned albums"
-msgstr "Zugeordnete Alben"
+msgstr ""
 
 msgid "Attach %name%"
-msgstr "%name% anhängen"
+msgstr ""
 
 msgid "Back to overview"
-msgstr "Zurück zur Übersicht"
+msgstr ""
 
 msgid "Back to paginated view"
-msgstr "Zurück zur Seitenansicht"
+msgstr ""
 
 msgid "Backend"
-msgstr "Backend"
+msgstr ""
 
 msgid "Bytes"
-msgstr "Bytes"
+msgstr ""
 
 msgid "Cancel"
-msgstr "Abbrechen"
+msgstr ""
 
 msgid "Categories"
-msgstr "Kategorien"
+msgstr ""
 
 msgid "Category"
-msgstr "Kategorie"
+msgstr ""
 
 msgid "Change selection"
-msgstr "Ändere Auswahl"
-
-msgid ""
-"Choose a title for your album. The event name seem to be a good choice. Date "
-"and creator name will be automatically included."
 msgstr ""
-"Wählen Sie einen Titel für Ihr Album. Der Veranstaltungsname scheint eine "
-"gute Wahl zu sein. Datum und Ersteller werden automatisch eingeschlossen."
+
+msgid "Choose a title for your album. The event name seem to be a good choice. Date and creator name will be automatically included."
+msgstr ""
 
 msgid "Choose action"
-msgstr "Aktion wählen"
+msgstr ""
 
 msgid "Choose an option"
-msgstr "Bitte Option wählen"
+msgstr ""
 
 msgid "Choose the album"
-msgstr "Wählen Sie das Album"
+msgstr ""
 
 msgid "Choose the enabled finder types."
-msgstr "Die aktivierten Finter-Typen auswählen."
+msgstr ""
 
 msgid "Choose the thumbnail mode."
-msgstr "Thumbnail Modus auswählen."
+msgstr ""
 
 msgid "Configuration"
-msgstr "Konfiguration"
+msgstr ""
 
 msgid "Confirmation prompt"
-msgstr "Sicherheitsabfrage"
+msgstr ""
 
 msgid "Content has been approved and is available online."
-msgstr "Inhalt wurde geprüft und ist online verfügbar."
-
-msgid ""
-"Content has been marked as deleted, but is still persisted in the database."
 msgstr ""
-"Inhalt wurde als gelöscht gekennzeichnet , ist aber immer noch in der "
-"Datenbank vorhanden."
 
-msgid ""
-"Content has not been submitted yet or has been waiting, but was rejected."
-msgstr "Inhalt wurde nicht übermittelt oder freigegeben, er wurde abgelehnt."
+msgid "Content has been marked as deleted, but is still persisted in the database."
+msgstr ""
+
+msgid "Content has not been submitted yet or has been waiting, but was rejected."
+msgstr ""
 
 msgid "Copyright"
-msgstr "Urheberrecht (Copyright)"
+msgstr ""
 
 msgid "Create"
-msgstr "Erstellen"
+msgstr ""
 
 msgid "Create album"
-msgstr "Album erstellen"
+msgstr ""
 
 msgid "Create album item"
-msgstr "Bild erstellen"
+msgstr ""
 
 msgid "Create album items"
-msgstr "Bild hinzufügen"
+msgstr ""
 
 msgid "Create new %name%"
-msgstr "%name% neu erstellen"
+msgstr ""
 
 msgid "Created by %user"
-msgstr "Erstellt von %user"
+msgstr ""
 
 msgid "Created by %user on %date"
-msgstr "Erstellt von %user am %date"
+msgstr ""
 
 msgid "Created on %date"
-msgstr "Erstellt am %date"
+msgstr ""
 
 msgid "Creation"
-msgstr "Erstellung"
+msgstr ""
 
 msgid "Creation and update"
-msgstr "Erstellung und Aktualisierung"
+msgstr ""
 
 msgid "Creation date"
-msgstr "Erstellungsdatum"
+msgstr ""
 
 msgid "Creator"
-msgstr "Ersteller"
+msgstr ""
 
 msgid "Current file"
-msgstr "Aktuelle Datei"
+msgstr ""
 
 msgid "Custom template"
-msgstr "Benutzerdefinierte Vorlage"
+msgstr ""
 
 msgid "Default"
-msgstr "Standard"
+msgstr ""
 
 msgid "Defer"
-msgstr "Zurückstellen"
+msgstr ""
 
 msgid "Deferred"
-msgstr "Zurückgestellt"
+msgstr ""
 
 msgid "Delete"
-msgstr "Löschen"
+msgstr ""
 
 msgid "Delete album"
-msgstr "Album löschen"
+msgstr ""
 
 msgid "Delete album item"
-msgstr "Bild löschen"
+msgstr ""
 
 msgid "Delete content permanently."
-msgstr "Inhalt dauerhaft löschen."
+msgstr ""
 
 msgid "Delete existing file"
-msgstr "Vorhandene Datei löschen"
+msgstr ""
 
 msgid "Delete this album"
-msgstr "Dieses Album löschen"
+msgstr ""
 
 msgid "Delete this album item"
-msgstr "Dieses Bild löschen"
+msgstr ""
 
 msgid "Delete this file ?"
-msgstr "Diese Datei löschen?"
+msgstr ""
 
 msgid "Deleted"
-msgstr "Gelöscht"
+msgstr ""
 
 msgid "Descending"
-msgstr "Abwärts"
+msgstr ""
 
 msgid "Detach %name%"
-msgstr "%name% entfernen"
+msgstr ""
 
 msgid "Detach this %name%"
-msgstr "Dies %name% entfernen"
+msgstr ""
 
 msgid "Details"
-msgstr "Details"
+msgstr ""
 
 msgid "Display list of RKEventPhotosModule objects."
-msgstr "Zeigt die Liste von RKEventPhotosModule -Objekten."
+msgstr ""
 
 msgid "Display or link a single RKEventPhotosModule object."
-msgstr "Anzeigen oder ein einzelnes RKEventPhotosModule -Objekt verknüpfen."
+msgstr ""
 
 msgid "Do you really want to delete this album item: \"%name%\" ?"
-msgstr "Möchten Sie wirklich diese Bild löschen: \"%name%\"?"
+msgstr ""
 
 msgid "Do you really want to delete this album: \"%name%\" ?"
-msgstr "Möchten Sie wirklich dieses Album löschen: \"%name%\"?"
+msgstr ""
 
 msgid "Doctrine Exception"
-msgstr "Doctrine Fehler"
+msgstr ""
 
 msgid "Done! Album created."
-msgstr "Fertig! Album erstellt."
+msgstr ""
 
 msgid "Done! Album deleted."
-msgstr "Fertig! Album gelöscht."
+msgstr ""
 
 msgid "Done! Album item created."
-msgstr "Fertig! Bild erstellt."
+msgstr ""
 
 msgid "Done! Album item deleted."
-msgstr "Fertig! Bild gelöscht."
+msgstr ""
 
 msgid "Done! Album item updated."
-msgstr "Fertig! Bild aktualisiert."
+msgstr ""
 
 msgid "Done! Album updated."
-msgstr "Fertig! Album aktualisiert."
+msgstr ""
 
 msgid "Done! Item created."
-msgstr "Erledigt! Element erstellt."
+msgstr ""
 
 msgid "Done! Item deleted."
-msgstr "Erledigt! Element gelöscht."
+msgstr ""
 
 msgid "Done! Item updated."
-msgstr "Erledigt! Element aktualisiert."
+msgstr ""
 
 msgid "Done! Module configuration updated."
-msgstr "Erledigt! Modul Konfiguration aktualisiert."
+msgstr ""
 
 msgid "Download"
-msgstr "Download"
+msgstr ""
 
 msgid "EXIF raw data"
-msgstr "EXIF Rohdaten"
+msgstr ""
 
 msgid "EXIF selection"
-msgstr "EXIF-Auswahl"
+msgstr ""
 
 msgid "Edit"
-msgstr "Bearbeiten"
+msgstr ""
 
 msgid "Edit album"
-msgstr "Album bearbeiten"
+msgstr ""
 
 msgid "Edit album item"
-msgstr "Bild bearbeiten"
+msgstr ""
 
 msgid "Edit album items workflow"
-msgstr "Bilder Workflow bearbeiten"
+msgstr ""
 
 msgid "Edit albums workflow"
-msgstr "Alben-Workflow bearbeiten"
+msgstr ""
 
 msgid "Edit this album"
-msgstr "Dieses Album bearbeiten"
+msgstr ""
 
 msgid "Edit this album item"
-msgstr "Dieses Bild bearbeiten"
+msgstr ""
 
 msgid "Edit workflow for album items"
-msgstr "Workflow für Bilder bearbeiten"
+msgstr ""
 
 msgid "Edit workflow for albums"
-msgstr "Workflow für Alben bearbeiten"
+msgstr ""
 
 msgid "Enable shrinking for album item image"
-msgstr "Bildverkleinerung einschalten"
+msgstr ""
 
 msgid "Enable this option to insert images"
-msgstr "Diese Option aktivieren umbilder einzufügen"
+msgstr ""
 
 msgid "Enabled finder types"
-msgstr "Aktivierte Finder-Typen"
+msgstr ""
 
 msgid "Enter the album date of the album"
-msgstr "Geben Sie das Datum des Albums an"
+msgstr ""
 
 msgid "Enter the album description of the album"
-msgstr "Geben Sie die Beschreibung des Albums an"
+msgstr ""
 
 msgid "Enter the album entries per page."
-msgstr "Anzahl Einträge pro Seite eintragen."
+msgstr ""
 
 msgid "Enter the album item entries per page."
-msgstr "Geben Sie die Anzahl Bilde pro Seite an."
+msgstr ""
 
 msgid "Enter the album title of the album"
-msgstr "Geben Sie den Albumtitel des Albums ein"
+msgstr ""
 
 msgid "Enter the copyright of the album item"
-msgstr "Geben Sie das Copyright des Bildes ein"
+msgstr ""
 
 msgid "Enter the image description of the album item"
-msgstr "Geben Sie die Bildbeschreibung ein"
+msgstr ""
 
 msgid "Enter the image of the album item"
-msgstr "Wählen Sie ein Bild"
+msgstr ""
 
 msgid "Enter the image title of the album item"
-msgstr "Geben Sie den Bildtitel an"
+msgstr ""
 
 msgid "Enter the row height."
-msgstr "Geben Sie die Zeilenhöhe an."
+msgstr ""
 
 msgid "Enter the shrink height"
-msgstr "Pixel für die reduzierte Bildhöhe."
+msgstr ""
 
 msgid "Enter the shrink width"
-msgstr "Pixel für die reduzierte Bildbreite."
+msgstr ""
 
 msgid "Enter the thumbnail height display"
-msgstr "Thumbnail Höhe Display Ansicht eintragen."
+msgstr ""
 
 msgid "Enter the thumbnail height edit"
-msgstr "Thumbnail Höhe Bearbeitungsansicht eintragen."
+msgstr ""
 
 msgid "Enter the thumbnail height view"
-msgstr "Thumbnail Höhe Listenansicht eintragen."
+msgstr ""
 
 msgid "Enter the thumbnail width display"
-msgstr "Thumbnail Breite Display Ansicht eintragen."
+msgstr ""
 
 msgid "Enter the thumbnail width edit"
-msgstr "Thumbnail Breite Bearbeitungsansicht eintragen."
+msgstr ""
 
 msgid "Enter the thumbnail width view"
-msgstr "Thumbnail Breite Listenansicht eintragen."
+msgstr ""
 
 msgid "Entry to display"
-msgstr "Einstiegspunkt für die Seite"
+msgstr ""
 
 msgid "Error! Could not create a category registry for the %entity% entity."
 msgstr ""
-"Fehler! Eine Kategorie-Registrierung für die Entität %entity% konnte nicht "
-"erstellt werden."
 
 msgid "Error! Could not determine workflow actions."
-msgstr "Fehler! Kann den zugeordneten Workflow nicht erkennen."
+msgstr ""
 
 msgid "Error! Creation attempt failed."
-msgstr "Fehler! Erstellung fehlgeschlagen."
+msgstr ""
 
 msgid "Error! Deletion attempt failed."
-msgstr "Fehler! Löschen fehlgeschlagen."
+msgstr ""
 
 msgid "Error! Invalid object type received."
-msgstr "Fehler! Ungültigen Objekttyp erhalten."
+msgstr ""
 
 msgid "Error! It is not allowed to delete this album item."
-msgstr "Fehler! Es ist nicht erlaubt, dieses Bild zu löschen."
+msgstr ""
 
 msgid "Error! It is not allowed to delete this album."
-msgstr "Fehler! Es ist nicht erlaubt, dieses Album zu löschen."
-
-msgid ""
-"Error! This file type is not allowed. Please choose another file format."
 msgstr ""
-"Fehler! Dieser Dateityp ist nicht erlaubt. Wähle bitte ein anderes Format."
+
+msgid "Error! This file type is not allowed. Please choose another file format."
+msgstr ""
 
 msgid "Error! This file type seems not to be a valid image."
-msgstr "Fehler! Dieser Dateityp scheint kein gültigesbild zu sein."
+msgstr ""
 
 msgid "Error! Update attempt failed."
-msgstr "Fehler! Aktualisierung fehlgeschlagen."
+msgstr ""
 
 msgid "Error: Invalid editor context given for external controller action."
 msgstr ""
-"Fehler: ungültiger Editor Kontext für externe Controller-Aktion gegeben."
 
 msgid "Error: invalid input."
-msgstr "Fehler: ungültige Eingabe."
+msgstr ""
 
 msgid "Errors"
-msgstr "Fehler"
+msgstr ""
 
 msgid "Event photos Backend"
-msgstr "Event Fotos Backend"
+msgstr ""
 
 msgid "Example"
-msgstr "Beispiel"
+msgstr ""
 
 msgid "Filter"
-msgstr "Filter"
+msgstr ""
 
 msgid "Filter (expert option)"
-msgstr "Filter ( Expertenoption )"
+msgstr ""
 
 msgid "Find %name%"
-msgstr "Finde %name%"
+msgstr ""
 
 msgid "Frontend"
-msgstr "Frontend"
+msgstr ""
 
 msgid "Further properties"
-msgstr "Weitere Eigenschaften"
+msgstr ""
 
 msgid "GB"
-msgstr "GB"
+msgstr ""
 
 msgid "Here you can choose a custom creation date"
-msgstr "Hier kann ein benutzerdefiniertes Erstellungsdatum gewählt werden"
+msgstr ""
 
 msgid "Here you can choose a user which will be set as creator"
 msgstr ""
-"Hier können Sie einen Benutzer wählen, die als Ersteller festgelegt wird"
 
 msgid "Here you can configure parameters for list views."
-msgstr "Hier können Sie Parameter für die Listenansichten konfigurieren."
+msgstr ""
 
 msgid "Here you can inspect and amend the existing workflows."
-msgstr "Hier können Sie die bestehenden überprüfen und ergänzen Workflows."
+msgstr ""
 
 msgid "Here you can manage all basic settings for this application."
-msgstr "Einstellungen für diese Anwendung"
+msgstr ""
 
 msgid "Hook assignments"
-msgstr "Zuordnungen"
+msgstr ""
 
 msgid "ID of album"
-msgstr "ID des Albums"
+msgstr ""
 
 msgid "ID of album item"
-msgstr "ID des Bilds"
-
-msgid ""
-"If blank the uploading user will get the copyright. If you want to overwrite "
-"please fill in this."
 msgstr ""
-"Bleibt dieses Feld leer wird der Upload Benutzer das Urheberrecht erhalten. "
-"Wenn Sie es überschreiben möchten, füllen Sie bitte dieses Feld aus."
 
-msgid ""
-"If you change this please save the block once to reload the parameters below."
+msgid "If blank the uploading user will get the copyright. If you want to overwrite please fill in this."
 msgstr ""
-"Wenn das geändert wird, bitte den Block einmal speichern, um die Parameter "
-"unten neu zu laden."
+
+msgid "If you change this please save the block once to reload the parameters below."
+msgstr ""
 
 msgid "Image"
-msgstr "Bild"
+msgstr ""
 
 msgid "Image description"
-msgstr "Bildbeschreibung"
+msgstr ""
 
 msgid "Image settings for album items image"
-msgstr "Bildeinstellungen"
+msgstr ""
 
 msgid "Image title"
-msgstr "Bildtitel"
+msgstr ""
 
 msgid "Image with absolute url to the album item"
-msgstr "Bild mit absoluten URLs auf das Bild"
+msgstr ""
 
 msgid "Image with relative link to the album item"
-msgstr "Bild mit relativen Link zum Bild"
+msgstr ""
 
 msgid "Images"
-msgstr "Bilder"
+msgstr ""
 
 msgid "Initial"
-msgstr "Anfänglich"
+msgstr ""
 
 msgid "Inset"
-msgstr "Einfügen (inset)"
+msgstr ""
 
 msgid "Integration"
-msgstr "Integration"
+msgstr ""
 
 msgid "Invalid object type received."
-msgstr "Fehler! Ungültigen Objekttyp erhalten."
+msgstr ""
 
 msgid "Invalid user identifier received."
-msgstr "Fehler! Ungültiger Benutzer Bezeichner aufgerufen."
+msgstr ""
 
 msgid "KB"
-msgstr "KB"
+msgstr ""
 
 msgid "Last update"
-msgstr "Letzte Aktualisierung"
+msgstr ""
 
 msgid "Link own album items on account page"
-msgstr "Eigene Bilder im Benutzerkonto anzeigen"
+msgstr ""
 
 msgid "Link own albums on account page"
-msgstr "Eigene Alben im Benutzerkonto anzeigen"
+msgstr ""
 
 msgid "List views"
-msgstr "Listenansichten"
+msgstr ""
 
 msgid "MB"
-msgstr "MB"
+msgstr ""
 
 msgid "Manage settings for this application"
-msgstr "Einstellungen für diese Anwendung"
+msgstr ""
 
 msgid "Moderation"
-msgstr "Moderation"
+msgstr ""
 
 msgid "My album items"
-msgstr "Meine Bilder"
+msgstr ""
 
 msgid "My albums"
-msgstr "Meine Alben"
+msgstr ""
 
 msgid "Needs to be located in the \"External/YourEntity/\" directory."
-msgstr "Muss sich in dem \"externen/YourEntity /\" Verzeichnis befinden."
+msgstr ""
 
 msgid "Newest"
-msgstr "Neueste"
+msgstr ""
 
 msgid "No album items found."
-msgstr "Keine Seite Bilder gefunden."
+msgstr ""
 
 msgid "No albums found."
-msgstr "Keine Alben gefunden."
+msgstr ""
 
 msgid "No entries found."
-msgstr "Keine Einträge gefunden."
+msgstr ""
 
 msgid "No item selected."
-msgstr "Kein Element ausgewählt."
+msgstr ""
 
 msgid "No such item found."
-msgstr "Kein entsprechendes Element gefunden."
+msgstr ""
 
 msgid "No such item."
-msgstr "Kein solches Element."
+msgstr ""
 
 msgid "Not set."
-msgstr "Nicht gesetzt."
+msgstr ""
 
 msgid "Note: this value must not exceed %amount% characters."
-msgstr "Hinweis: Dieser Wert darf %amount% Zeichen nicht überschreiten."
+msgstr ""
 
 msgid "OK"
-msgstr "Ok"
+msgstr ""
 
 msgid "Object type"
-msgstr "Objekttyp"
+msgstr ""
 
 msgid "Only digits are allowed."
-msgstr "Nur Ziffern sind erlaubt."
+msgstr ""
 
 msgid "Only images"
-msgstr "Nurbilder"
+msgstr ""
 
 msgid "Only item titles"
-msgstr "Nur Element Titel"
+msgstr ""
 
 msgid "Open file"
-msgstr "Datei öffnen"
+msgstr ""
 
 msgid "Open preview page"
-msgstr "Vorschau öffnen"
+msgstr ""
 
 msgid "Open quick view window"
-msgstr "Schnellansicht öffnen"
+msgstr ""
 
 msgid "Operation cancelled."
-msgstr "Vorgang abgelehnt."
+msgstr ""
 
 msgid "Outbound"
-msgstr "abschneiden (outbound)"
+msgstr ""
 
 msgid "Page size"
-msgstr "Seitengröße"
+msgstr ""
 
 msgid "Paste as"
-msgstr "Einfügen als"
+msgstr ""
 
 msgid "Please add your photos only to your own album."
-msgstr "Bitte fügen Sie Ihre Fotos nur Ihren eigenes Alben hinzu."
+msgstr ""
 
 msgid "Please choose an option"
-msgstr "Bitte wählen"
+msgstr ""
 
 msgid "Preview"
-msgstr "Vorschau"
+msgstr ""
 
 msgid "Quick navigation"
-msgstr "Schnellansicht"
+msgstr ""
 
 msgid "RKEventPhotosModule detail view"
-msgstr "Eventfotomodul Detailansicht"
+msgstr ""
 
 msgid "RKEventPhotosModule items"
-msgstr "Eventfotomodul Elemente"
+msgstr ""
 
 msgid "RKEventPhotosModule list view"
-msgstr "Eventfotomodul -Listenansicht"
+msgstr ""
 
 msgid "Random"
-msgstr "Zufällig"
+msgstr ""
 
 msgid "Read more"
-msgstr "Weiterlesen"
+msgstr ""
 
 msgid "Recover"
-msgstr "Wiederherstellen"
+msgstr ""
 
 msgid "Reject"
-msgstr "Zurückgezogen"
+msgstr ""
 
 msgid "Relative link to the album"
-msgstr "Relativen Link zum Album"
+msgstr ""
 
 msgid "Relative link to the album item"
-msgstr "Relativen Link zum Bild"
+msgstr ""
 
 msgid "Relative link to the image"
-msgstr "Relativer Link zumbild"
+msgstr ""
 
 msgid "Reset"
-msgstr "Zurücksetzen"
+msgstr ""
 
 msgid "Reset to empty value"
-msgstr "Eingabe Löschen"
+msgstr ""
 
 msgid "Reuse"
-msgstr "Wiederverwenden"
+msgstr ""
 
 msgid "Reuse for new album"
-msgstr "Wiederverwendung für neues Album"
+msgstr ""
 
 msgid "Reuse for new album item"
-msgstr "Wiederverwendung für neues Bild"
+msgstr ""
 
 msgid "Row height"
-msgstr "Zeilenhöhe"
+msgstr ""
 
 msgid "Search"
-msgstr "Suchen"
+msgstr ""
 
 msgid "Search %name%"
-msgstr "Suchen %name%"
+msgstr ""
 
 msgid "Search and select album"
-msgstr "Suchen und wählen Sie Album"
+msgstr ""
 
 msgid "Search and select album item"
-msgstr "Suchen und wählen Sie Bild"
+msgstr ""
 
 msgid "Search for"
-msgstr "Suche nach"
+msgstr ""
 
 msgid "Send private message to %userName%"
-msgstr "Schicke eine private Nachricht an %userName%"
+msgstr ""
 
 msgid "Settings"
-msgstr "Konfiguration"
+msgstr ""
 
 msgid "Show all entries"
-msgstr "Zeige alle Einträge"
+msgstr ""
 
 msgid "Show also entries from other users"
-msgstr "Zeige alle Einträge auch von anderen Anwendern"
+msgstr ""
 
 msgid "Show only own entries"
-msgstr "Zeige nur eigene Einträge"
+msgstr ""
 
 msgid "Shows all items except these which are approved"
-msgstr "Zeigt alle Einträge außer den Freigegebenen"
+msgstr ""
 
 msgid "Shows all items except these which are deferred"
-msgstr "Zeigt alle Elemente außer den zurückgestellten"
+msgstr ""
 
 msgid "Shows all items except these which are trashed"
-msgstr "Zeigt alle Elemente außer denen, die im Papierkorb sind"
+msgstr ""
 
 msgid "Shrink height album item image"
-msgstr "Reduzierte Bildhöhe"
+msgstr ""
 
 msgid "Shrink width album item image"
-msgstr "Reduzierte Bildbreite"
+msgstr ""
 
 msgid "Sorry, but an error occured during the %action% action."
-msgstr "Sorry, aber ein Fehler ist bei Aktion %action% aufgetreten."
-
-msgid ""
-"Sorry, but an error occured during the %action% action. Please apply the "
-"changes again!"
 msgstr ""
-"Sorry, aber ein Fehler ist bei Aktion %action% aufgetreten. Bitte die "
-"Änderungen erneut anwenden!"
 
-msgid ""
-"Sorry, but you can not create the album item yet as other items are required "
-"which must be created before!"
+msgid "Sorry, but an error occured during the %action% action. Please apply the changes again!"
 msgstr ""
-"Tut mir leid, aber Sie können dieses Bild noch nicht anlegen! "
-"Pflichteinträge müssen vorher gemacht werden!"
 
-msgid ""
-"Sorry, but you can not create the album yet as other items are required "
-"which must be created before!"
+msgid "Sorry, but you can not create the album item yet as other items are required which must be created before!"
 msgstr ""
-"Tut mir leid, aber Sie können dieses Album noch nicht anlegen! "
-"Pflichteinträge müssen vorher gemacht werden!"
+
+msgid "Sorry, but you can not create the album yet as other items are required which must be created before!"
+msgstr ""
 
 msgid "Sort by"
-msgstr "Sortiere nach"
+msgstr ""
 
 msgid "Sort by %s"
-msgstr "Sortieren nach %s"
+msgstr ""
 
 msgid "Sort direction"
-msgstr "Sortierreihenfolge"
+msgstr ""
 
 msgid "Sorting"
-msgstr "Sortierung"
+msgstr ""
 
 msgid "Special album settings"
-msgstr "Spezial Albumeinstellungen"
+msgstr ""
 
 msgid "State"
-msgstr "Status"
+msgstr ""
 
 msgid "Submit"
-msgstr "Absenden"
+msgstr ""
 
 msgid "Submit and repeat"
-msgstr "Absenden und Wiederholen"
+msgstr ""
 
 msgid "Switch to administration area."
-msgstr "Wechsel zum Administrationsbereich."
+msgstr ""
 
 msgid "Switch to user area."
-msgstr "Wechsel zum Nutzerbereich."
+msgstr ""
 
 msgid "Template"
-msgstr "Vorlage"
+msgstr ""
 
 msgid "The amount of album items shown per page"
-msgstr "Die Anzahl Bilder, die pro Seite angezeigt werden"
+msgstr ""
 
 msgid "The amount of albums shown per page"
-msgstr "Die Anzahl Alben, die pro Seite angezeigt werden"
-
-msgid ""
-"The cache directory \"%directory%\" does not exist. Please create it and "
-"make it writable for the webserver."
 msgstr ""
-"Der Cache-Verzeichnis \"%directory%\" ist nicht vorhanden. Bitte erstellen "
-"Sie es und machen Sie es für den Webserver beschreibbar."
+
+msgid "The cache directory \"%directory%\" does not exist. Please create it and make it writable for the webserver."
+msgstr ""
 
 msgid "The date will be included in the headline and will be used for sorting."
-msgstr "Das Datum wird in der Überschrift und für die Sortierung verwendet."
+msgstr ""
 
 msgid "The enable shrinking option"
-msgstr "Die Option zur Bildverkleinerung"
+msgstr ""
 
 msgid "The link own album items on account page option"
-msgstr "Die Option zur Anzeige der eigenen Bilder im Benutzerkonto"
+msgstr ""
 
 msgid "The link own albums on account page option"
-msgstr "Die Option zur Anzeige der eigenen Alben im Benutzerkonto"
+msgstr ""
 
 msgid "The maximum amount of items to be shown."
-msgstr "Die maximale Anzahl von Elementen, die angezeigt werden."
+msgstr ""
 
 msgid "The maximum height of a row in the image album."
-msgstr "Die maximale Höhe einer Zeile in der Albenansicht."
+msgstr ""
 
 msgid "The maximum image height in pixels."
-msgstr "Die maximale Bildhöhe in Pixel."
+msgstr ""
 
 msgid "The maximum image width in pixels."
-msgstr "Die maximale Bildbreite in Pixel."
+msgstr ""
 
 msgid "The upload directories at \"%path%\" can be removed manually."
-msgstr "Das Upload-Verzeichnis \"%path%\" kann manuell entfernt werden."
-
-msgid ""
-"The upload directory \"%path%\" does not exist and could not be created. Try "
-"to create it yourself and make sure that this folder is accessible via the "
-"web and writable by the webserver."
 msgstr ""
-"Das Upload-Verzeichnis \"%path%\" ist nicht vorhanden und konnte nicht "
-"erstellt werden. Versuchen Sie es selbst und stellen Sie sicher, dass dieser "
-"Ordner über das Web zugänglich und vom Webserver beschreibbar ist."
+
+msgid "The upload directory \"%path%\" does not exist and could not be created. Try to create it yourself and make sure that this folder is accessible via the web and writable by the webserver."
+msgstr ""
 
 msgid "The value \"%value%\" is not allowed for the \"%property%\" property."
 msgstr ""
-"Der Wert \"%value%\" ist für die Eigenschaft \"%property%\" nicht zulässig."
 
-msgid ""
-"There is no maximum for the image size. If images are to big a memory error "
-"might occur. The administrator can switch on automatic shrinking."
+msgid "There is no maximum for the image size. If images are to big a memory error might occur. The administrator can switch on automatic shrinking."
 msgstr ""
-"Es gibt keine Obergrenze für die Bildgröße. Wenn Bilder zu groß sind, kann "
-"ein Speicherfehler auftreten. Der Administrator kann auf automatisches "
-"verkleinern einstellen (Standardeinstellung)."
 
 msgid "These options allow you to configure integration aspects."
-msgstr "Diese Optionen erlauben Integrationsaspekte zu konfigurieren."
+msgstr ""
 
 msgid "This album is assigned to the following data objects:"
-msgstr "Dieses Album wird an folgenden Stellen verwendet:"
+msgstr ""
 
 msgid "This album is not assigned to any data objects yet."
-msgstr "Dieses Album wird nirgendwo verwendet."
-
-msgid ""
-"This description is used to give a short introduction about the event. It is "
-"not mandatory."
 msgstr ""
-"Diese Beschreibung wird verwendet, um eine kurze Einführung über die "
-"Veranstaltung zu geben. Es ist nicht zwingend."
+
+msgid "This description is used to give a short introduction about the event. It is not mandatory."
+msgstr ""
 
 msgid "This function requires JavaScript activated!"
-msgstr "Diese Funktion verlangt aktiviertes Javascript!"
+msgstr ""
 
 msgid "This is an optional filter."
-msgstr "Dies ist ein optionaler Filter"
+msgstr ""
 
 msgid "Thumbnail height album item image display"
-msgstr "Miniaturansicht Höhe in Bilderansicht"
+msgstr ""
 
 msgid "Thumbnail height album item image edit"
-msgstr "Miniaturansicht Höhe in Bearbeitungsansicht"
+msgstr ""
 
 msgid "Thumbnail height album item image view"
-msgstr "Miniaturansicht Höhe in Listenansicht"
+msgstr ""
 
 msgid "Thumbnail height on display pages in pixels."
-msgstr "Thumbnail Höhe auf Display Seiten in Pixel."
+msgstr ""
 
 msgid "Thumbnail height on edit pages in pixels."
-msgstr "Thumbnail Höhe auf Edit Seiten in Pixel."
+msgstr ""
 
 msgid "Thumbnail height on view pages in pixels."
-msgstr "Thumbnail Höhe auf View Seiten in Pixel."
+msgstr ""
 
 msgid "Thumbnail mode (inset or outbound)."
-msgstr "Thumbnail Modus (inset oder outbound)."
+msgstr ""
 
 msgid "Thumbnail mode album item image"
-msgstr "Miniaturbild Modus"
+msgstr ""
 
 msgid "Thumbnail width album item image display"
-msgstr "Miniaturansicht Breite in Bilderansicht"
+msgstr ""
 
 msgid "Thumbnail width album item image edit"
-msgstr "Miniaturansicht Breite in Bearbeitungsansicht"
+msgstr ""
 
 msgid "Thumbnail width album item image view"
-msgstr "Miniaturansicht Breite in Listenansicht"
+msgstr ""
 
 msgid "Thumbnail width on display pages in pixels."
-msgstr "Thumbnail Breite auf Display Seiten in Pixel."
+msgstr ""
 
 msgid "Thumbnail width on edit pages in pixels."
-msgstr "Thumbnail Breite auf Edit Seiten in Pixel."
+msgstr ""
 
 msgid "Thumbnail width on view pages in pixels."
-msgstr "Thumbnail Breite auf View Seiten in Pixel."
+msgstr ""
 
 msgid "Trash"
-msgstr "Papierkorb"
+msgstr ""
 
 msgid "Trashed"
-msgstr "Gelöscht"
+msgstr ""
 
 msgid "Update"
-msgstr "Aktualisieren"
+msgstr ""
 
 msgid "Update configuration"
-msgstr "Update-Konfiguration"
+msgstr ""
 
 msgid "Update date"
-msgstr "Aktualisierungsdatum"
+msgstr ""
 
 msgid "Updated by %user"
-msgstr "Aktualisiert von %user"
+msgstr ""
 
 msgid "Updated by %user on %date"
-msgstr "Aktualisiert von %user am %date"
+msgstr ""
 
 msgid "Updated on %date"
-msgstr "Aktualisiert am %date"
+msgstr ""
 
 msgid "Updater"
-msgstr "Aktualisieren"
+msgstr ""
 
 msgid "View this object"
-msgstr "Dieses Objekt anzeigen"
-
-msgid ""
-"Warning! The upload directory at \"%path%\" exists but is not writable by "
-"the webserver."
 msgstr ""
-"Warnung! Das Upload-Verzeichnis \"%path%\" besteht, ist allerdings nicht vom "
-"Webserver beschreibbar."
+
+msgid "Warning! The upload directory at \"%path%\" exists but is not writable by the webserver."
+msgstr ""
 
 msgid "Welcome to the album item section of the Event photos application."
-msgstr "Willkommen im Bildbereich des Eventfotomoduls."
+msgstr ""
 
 msgid "Welcome to the album section of the Event photos application."
-msgstr "Willkommen im Albenbereich des Eventfotomoduls."
-
-msgid ""
-"Whether to add a link to album items of the current user on his account page"
 msgstr ""
-"Ob Bilder des aktuellen Benutzers in seinem Benutzerkonto angezeigt werden "
-"sollen"
+
+msgid "Whether to add a link to album items of the current user on his account page"
+msgstr ""
 
 msgid "Whether to add a link to albums of the current user on his account page"
 msgstr ""
-"Ob Alben des aktuellen Benutzers in seinem Benutzerkonto angezeigt werden "
-"sollen"
 
-msgid ""
-"Whether to enable shrinking huge images to maximum dimensions. Stores "
-"downscaled version of the original image."
+msgid "Whether to enable shrinking huge images to maximum dimensions. Stores downscaled version of the original image."
 msgstr ""
-"Auswählen, um große Bilder auf angegebene Dimensionen zu verkleinern. "
-"Speichert herunterskalierte Version des Originalbildes."
 
-msgid ""
-"Which sections are supported in the Finder component (used by Scribite plug-"
-"ins)."
+msgid "Which sections are supported in the Finder component (used by Scribite plug-ins)."
 msgstr ""
-"Weche Sektionen in der Finder-Komponente genutzt werden sollen (genutzt "
-"durch Scribite Plugins)."
 
 msgid "With description"
-msgstr "Mit Beschreibung"
+msgstr ""
 
 msgid "With selected album items"
-msgstr "Mit ausgewählten Bildern"
+msgstr ""
 
 msgid "With selected albums"
-msgstr "Mit ausgewählten Alben"
+msgstr ""
 
 msgid "Workflows"
-msgstr "Arbeitsabläufe"
-
-msgid ""
-"You may want to tell a bit about the shooting. The exif parameters are "
-"visible in detail view of the image."
 msgstr ""
-"Vielleicht möchten ein wenig über das Shooting und die Parameter erzählen. "
-"Die Exif Rohdaten werden in der Detailansicht des Bildes dargestellt."
+
+msgid "You may want to tell a bit about the shooting. The exif parameters are visible in detail view of the image."
+msgstr ""
 
 msgid "album"
-msgstr "Album"
+msgstr ""
 
 msgid "album items"
-msgstr "Bilder"
+msgstr ""
 
 msgid "albums"
-msgstr "Alben"
+msgstr ""
 
 msgid "more image details"
-msgstr "Weitere Bildinformationen"
+msgstr ""
 
 msgid "on"
-msgstr "vom"
+msgstr ""
 
 msgid "pixels"
-msgstr "Pixel"
+msgstr ""
 
 msgid "sometimes it is nice to give the image a title"
-msgstr "Manchmal ist es schön, wenn sie dem Bild einen Titel geben"
+msgstr ""
 
-#~ msgid ""
-#~ "The image must fit to the maximum dimension. If shrinking is enabled it "
-#~ "will be shrinked automatically."
-#~ msgstr ""
-#~ "Das Bild wird automatisch verkleinert. Kommt eine Fehlermeldung, reicht "
-#~ "der interne Speicher des Servers nicht zum verkleinern. In dem Fall bitte "
-#~ "selber das Bild verkleinern und dann erneut hochladen."
-
-#~ msgid "You may want to label your image with your copyright."
-#~ msgstr "Vielleicht möchten Ihr Bild mit Ihrem Urheberrecht kennzeichnen."
-
-#~ msgid "A direct feed showing the list of album items"
-#~ msgstr "Eine direkter Feed zeigt die Liste der Bilder"
-
-#~ msgid "A direct feed showing the list of albums"
-#~ msgstr "Eine direkter Feed zeigt die Liste der Alben"
-
-#, fuzzy
-#~ msgid "Album form aware provider"
-#~ msgstr "Album Form bewusst Anbieter"
-
-#~ msgid "Dummy album choice"
-#~ msgstr "Dummy-Album Auswahl"
-
-#~ msgid "Dummy album text"
-#~ msgstr "Dummy-Album Text"
-
-#~ msgid "Fine art photographer filter hooks provider"
-#~ msgstr "Fotografenmodul Filter Hook Anbieter"
-
-#~ msgid "Latest album items"
-#~ msgstr "Neuesten Bilder"
-
-#~ msgid "Latest albums"
-#~ msgstr "Neueste Alben"
-
-#~ msgid "Option A"
-#~ msgstr "Option A"
-
-#~ msgid ""
-#~ "The image will be shriked automatically right after the upload. The "
-#~ "shrink size can be configured by the administrator."
-#~ msgstr ""
-#~ "Direkt nach dem Upload wird das Bild automatisch verkleinert werden. Die "
-#~ "Größe kann vom Administrator konfiguriert werden."
-
-#, fuzzy
-#~ msgid "This is a dummy addition by a generated filter provider."
-#~ msgstr ""
-#~ "Dies ist ein Dummy-Ergänzung durch einen generierten Filter-Anbieter."
