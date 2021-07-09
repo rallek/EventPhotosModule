@@ -2,47 +2,47 @@ msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
+"Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: eventphotosmodule\n"
-"X-Crowdin-Language: de\n"
+"X-Crowdin-Language: ca\n"
 "X-Crowdin-File: /ZK1.5.x/Resources/translations/zikula_javascript.template.po\n"
 "Project-Id-Version: eventphotosmodule\n"
 "Last-Translator: rallek <ralf@familie-koester.de>\n"
-"Language-Team: German\n"
-"PO-Revision-Date: 2018-02-07 14:46-0500\n"
+"Language-Team: Catalan\n"
+"PO-Revision-Date: 2018-02-07 14:09-0500\n"
 
 msgid "Action has been completed."
-msgstr "Inhalt wurde geprüft und ist online verfügbar."
+msgstr ""
 
 msgid "Create"
-msgstr "Erstellen"
+msgstr ""
 
 msgid "Create new entry"
-msgstr "Neuen Eintrag erstellen"
+msgstr ""
 
 msgid "Do you really want to delete this entry?"
-msgstr "Wollen Sie diesen Eintrag wirklich löschen?"
+msgstr ""
 
 msgid "Edit this entry"
-msgstr "Eintrag editieren"
+msgstr ""
 
 msgid "Information"
-msgstr "Information"
+msgstr ""
 
 msgid "Next (Right arrow key)"
-msgstr "Nächste (Pfeiltaste rechts)"
+msgstr ""
 
 msgid "No results found!"
-msgstr "Keine Ergebnisse gefunden!"
+msgstr ""
 
 msgid "Please select a valid file extension."
-msgstr "Bitte wähle einen erlaubten Dateityp´."
+msgstr ""
 
 msgid "Previous (Left arrow key)"
-msgstr "Zurück (Pfeiltaste links)"
+msgstr ""
 
 msgid "of"
-msgstr "von"
+msgstr ""
 
